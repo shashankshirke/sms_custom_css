@@ -10,12 +10,12 @@ app_license = "mit"
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/sms_custom_css/css/sms_custom_css.css"
-# app_include_js = "/assets/sms_custom_css/js/sms_custom_css.js"
+app_include_css = "/assets/sms_custom_css/css/sms_custom_css.css"
+app_include_js = "/assets/sms_custom_css/js/sms_custom_css.js"
 
 # include js, css files in header of web template
-# web_include_css = "/assets/sms_custom_css/css/sms_custom_css.css"
-# web_include_js = "/assets/sms_custom_css/js/sms_custom_css.js"
+web_include_css = "/assets/sms_custom_css/css/sms_custom_css.css"
+web_include_js = "/assets/sms_custom_css/js/sms_custom_css.js"
 
 # include custom scss in every website theme (without file extension ".scss")
 # website_theme_scss = "sms_custom_css/public/scss/website"
